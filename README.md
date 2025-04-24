@@ -5,7 +5,7 @@ A simple and intuitive React Native app to help users set, track goals.<br/>
 2 player Tic Tac Toe<br/>
 
 ## Tech Stack<br/>
-React Native<br/>
+React <br/>
 
 ## Installation<br/>
 git clone this repo<br/>

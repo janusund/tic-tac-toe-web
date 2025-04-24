@@ -2,7 +2,7 @@
 A simple and intuitive React Native app to help users set, track goals.<br/>
 
 ## Features<br/>
-Add, edit, and delete goals<br/>
+2 player Tic Tac Toe<br/>
 
 ## Tech Stack<br/>
 React Native<br/>

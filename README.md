@@ -12,7 +12,7 @@ git clone this repo<br/>
 cd tic-tac-toe-web<br/>
 npm install<br/>
 npm start<br/>
-Note: You’ll need Node.js, Expo CLI, and a mobile simulator or Expo Go app.<br/>
+Note: You’ll need Node.js, React.<br/>
 
 ## Project Structure <br/>
 

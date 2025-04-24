@@ -1,5 +1,5 @@
 ## Simple Tic Tac Toe Game<br/>
-A simple and intuitive React Native app to help users set, track goals.<br/>
+A web app for tic tac toe game.<br/>
 
 ## Features<br/>
 2 player Tic Tac Toe<br/>
